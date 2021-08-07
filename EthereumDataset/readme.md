@@ -10,6 +10,7 @@ This dataset provides the history of daily prices of Ethereum. The data starts f
 
 ## Credits
 Dataset Link on:   [Kaggle platform](https://www.kaggle.com/varpit94/ethereum-data)
+
 Author of dataset: [Arpit Verma](https://www.kaggle.com/varpit94)
 
 Description above is copied from dataset information from Kaggle.
